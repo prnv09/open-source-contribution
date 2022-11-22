@@ -1,0 +1,14 @@
+One user can create multiple projects 
+
+other user can contribute to this projects by paying ether 
+
+to get collected ether for project you need to raise request with amount you want and your address
+
+once request raised the persons who contributed will give you approval for withdraw ether, you need at least 50% approval
+to withdraw or else it can not be withdraw...
+
+code plan - 
+create project contract -> proj name, proj number 
+
+main contract ->  create project, contribute to project  
+
